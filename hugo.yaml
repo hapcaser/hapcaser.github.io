@@ -1,0 +1,7 @@
+baseURL: "https://hapcaser.github.io/"
+languageCode: zh-cn
+title: "Hapcaser's Blog"
+theme: ["PaperMod"]
+
+params:
+  defaultTheme: auto
