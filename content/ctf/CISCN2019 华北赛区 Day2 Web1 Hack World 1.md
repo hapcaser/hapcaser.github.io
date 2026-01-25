@@ -1,7 +1,7 @@
 ---
 tags:
   - CTF
-date: "2026-01-25 15:20"
+date: "2026-01-25"
 ---
 
 - 🖥️ Terminal / Shell
