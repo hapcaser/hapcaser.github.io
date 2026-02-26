@@ -3,23 +3,7 @@ tags:
   - CTF
 date: "2026-01-25"
 ---
-
-- 🖥️ Terminal / Shell
-- 🚩 Flag
-- 🛠️ Exploit script
-- 📂 Files / SMBr
-- 📡 Network
-- 🌐 Web
-- 🔑 Credentials
-- ⚔️ Attack
-- 📈 PrivEsc / Post-Exploitation
-- 📚 Notes / References
-- 🐚 Reverse Shell
-- 🎯 Target
-- 🚪 Entry Point
-- 🧰 Tools
-- 🖥️ Machine
-
+CISCN2019 华北赛区 Day2 Web1 Hack World1.md
 # 🔎 Recon
 
 ### 🚩 Flag
