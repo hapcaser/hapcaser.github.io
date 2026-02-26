@@ -12,7 +12,6 @@ CISCN2019 华北赛区 Day2 Web1 Hack World1.md
 | ------------------------------------------ | ----- |
 | flag{a6e675b2-c9ec-4bbc-b3c1-7bf8ae838c85} | sql   |
 
-## Info
 ## exploit
 ```http
 POST /index.php HTTP/1.1
