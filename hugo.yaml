@@ -1,6 +1,8 @@
 baseURL: "https://hapcaser.github.io/"
 languageCode: zh-cn
 title: "Hapcaser's Blog"
+params:
+  author: "Hapcaser"  
 
 theme: ["github.com/adityatelange/hugo-PaperMod"]
 
