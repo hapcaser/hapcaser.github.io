@@ -1,8 +1,11 @@
 ---
-tags:
-  - CTF
-date: "2026-01-25"
+title: "CISCN 2019 华北赛区 Day2 Web1 Hack World "
+date: 2026-01-25
+description: "CISCN 2019 华北赛区Hack World题目" 
+tags: ["CTF", "SQLi", "Writeup"]
+categories: ["Security"]
 ---
+
 CISCN2019 华北赛区 Day2 Web1 Hack World1.md
 # 🔎 Recon
 
